@@ -1,4 +1,1 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Must-2358/MUST/refs/heads/main/MUST"))()
+loadstring(game:HttpGet("https://vss.pandadevelopment.net/virtual/file/09d9b326f4744aa2"))()
